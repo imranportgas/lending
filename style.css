@@ -85,3 +85,23 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.problems{
+    background: url(./pictures/problems.jpg);
+
+}
+
+.problems_container{
+    padding-top: 20px;
+    padding-bottom: 170px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 22px;
+}
+
+.problems_container img{
+    width: 160px;
+    height: 160px;
+    padding-bottom: 20px;
+}
